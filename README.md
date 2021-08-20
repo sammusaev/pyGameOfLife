@@ -7,3 +7,6 @@
 - **s** - Save current grid
 - **l** - Load grid
 - **q** - Quit
+
+
+![](preview.gif)
